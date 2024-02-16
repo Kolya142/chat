@@ -1,0 +1,19 @@
+.form-container {
+    position: fixed;
+    top: 5%;
+    margin: 0 auto;
+    width: 300px;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
+.form-container form, p, a{
+    background-color: rgb(220, 227, 227);
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+.form-container input {
+    width: 50%;
+    font-size: small;
+    background-color: azure;
+}
